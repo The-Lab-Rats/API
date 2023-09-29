@@ -1,74 +1,196 @@
 [
     {
         "id": 0,
-        "nama": "Calculus ",
-        "penyebab": "Pada dasarnya, kalkulus gigi berawal dari sisa-sisa makanan yang menumpuk di gigi hingga berubah menjadi lapisan tipis dan lengket yang disebut plak. Plak yang tidak dibersihkan dalam waktu lama kemudian berubah menjadi kalkulus gigi.",
-        "rekomendasi": "Scaling gigi merupakan tindakan mengikis karang yang menempel di permukaan gigi. Proses ini harus dilakukan oleh tenaga ahli (dokter)."
-      },
-      {
+        "nama": "Kalkulus Gigi",
+        "penjelasan": "Kalkulus gigi adalah lapisan kotoran atau sisa makanan yang mengeras pada permukaan gigi. Kondisi ini juga dikenal sebagai karang gigi.",
+        "tanda": [
+            "Perubahan warna pada gigi",
+            "Noda pada gigi",
+            "Rasa gigi tumpul atau berkerikil",
+            "Munculnya karang pada gigi"
+        ],
+        "penyebab": "Kalkulus gigi berawal dari sisa-sisa makanan yang menumpuk di gigi dan berkembang menjadi plak. Plak yang tidak dibersihkan dalam waktu yang lama kemudian berubah menjadi kalkulus gigi.",
+        "pencegahan": "Gunakan pasta gigi yang mengandung fluoride, gunakan benang gigi, dan berkumur dengan mouthwash yang mengandung antiseptik.",
+        "rekomendasi_penanganan": "Kalkulus gigi tidak dapat dibersihkan dengan cara disikat. Scaling gigi adalah satu-satunya cara untuk menghilangkannya."
+    },
+    {
         "id": 1,
-        "nama": "Caries",
-        "penyebab": "Karies gigi terjadi ketika bakteri pada gigi menumpuk dan menimbulkan pembentukan plak, sehingga menyebabkan demineralisasi atau hilangnya komposisi mineral.",
-        "rekomendasi": "Perawatan karies gigi bisa dilakukan dengan prosedur tambal gigi di dokter. Prosedur ini biasanya diterapkan pada kondisi karies gigi yang belum terlalu dalam dan parah. Tujuan tambal gigi adalah menutup karies agar tidak semakin menyebar ke bagian gigi lainnya."
-      },
-       {
-      "id": 2,
-      "nama": "Discoloration",
-      "penyebab": "Penyebab discoloration dapat bervariasi, termasuk penuaan gigi, penggunaan bahan kimia atau obat-obatan, serta nekrosis pada pulpa akibat gigi berlubang atau trauma.",
-      "rekomendasi": "Diskolorasi pada gigi dapat diperbaiki dengan menggunakan bahan pemutih gigi atau bleaching."
+        "nama": "Karies Gigi",
+        "penjelasan": "Karies gigi adalah kerusakan pada gigi akibat plak gigi yang mengandung bakteri merombak enamel gigi, membentuk lubang atau lesi pada gigi.",
+        "tanda": [
+            "Nyeri Gigi",
+            "Sensitivitas Gigi",
+            "Perubahan Warna Gigi",
+            "Noda atau Titik Hitam",
+            "Pembengkakan Gusi"
+        ],
+        "penyebab": "Penyebab utama gigi karies adalah plak gigi, konsumsi gula dan karbohidrat, serta kurangnya perawatan gigi.",
+        "pencegahan": "Sikat gigi secara teratur, kurangi konsumsi gula, dan jalani perawatan rutin oleh dokter gigi.",
+        "rekomendasi_penanganan": "Penanganan dapat melibatkan restorasi gigi, mahkota gigi, perawatan akar gigi, atau perubahan gaya hidup."
     },
     {
-      "id": 3,
-      "nama": "Gingivitis",
-      "penyebab": "Penyebab utama gingivitis adalah kebersihan mulut yang buruk, menyebabkan penumpukan plak gigi. Jika dibiarkan, plak bisa mengeras dan membentuk karang gigi yang dapat menyebabkan peradangan pada gusi.",
-      "rekomendasi": "Rekomendasi untuk gingivitis termasuk scaling, root planing, dan operasi flap."
-    },
-     {
-      "id": 4,
-      "nama": "Hypodontia",
-      "penyebab": "Hypodontia adalah kelainan genetik yang tidak dapat dicegah. Terkadang, hypodontia terjadi tanpa penyebab yang pasti.",
-      "rekomendasi": "Rekomendasi untuk hypodontia termasuk pemasangan kawat gigi, mengatur ulang bentuk gigi, dan menggunakan gigi palsu."
-    },
-      {
-      "id": 5,
-      "nama": "Healty Teeth",
-      "penyebab": "Tidak ada",
-      "rekomendasi": "Terus jaga kesehatan gigi anda dengan rutin gosok gigi dan periksa rutin setiap 6 bulan sekali ke dokter "
-    },
-  
-    {
-      "id": 6,
-      "nama": "Fissure Tongue",
-      "penyebab": "Belum diketahui pasti, namun ada beberapa faktor yang bisa menyebabkan lidah pecah-pecah, seperti faktor keturunan (genetik), kekurangan asupan zat besi, folat, dan vitamin B12, infeksi jamur, konsumsi makanan pedas atau asam, minuman panas, serta minuman beralkohol, serta sistem kekebalan tubuh yang melemah.",
-      "rekomendasi": "Berhenti mengonsumsi minuman beralkohol, mengonsumsi makanan bergizi seimbang, mengurangi konsumsi makanan pedas dan asam, memenuhi kebutuhan cairan tubuh dengan minum air putih minimal 8 gelas tiap harinya."
-    },
-     {
-      "id": 7,
-      "nama": "Geographic Tongue",
-      "penyebab": "Riwayat alergi, stres emosional, perubahan hormon, terutama pada wanita yang mengonsumsi pil KB, fissured tongue (lidah dengan alur di sepanjang permukaannya), kekurangan vitamin dan mineral seperti zinc, zat besi, asam folat, vitamin B6, serta B12.",
-      "rekomendasi": "Umumnya lidah geografis tidak memerlukan perawatan medis, namun bisa melakukan pemeriksaan ke dokter untuk mengurangi rasa sakit atau ketidaknyamanan."
-    },{
-      "id": 8,
-      "nama": "Cancer Tongue",
-      "penyebab": "Kebiasaan merokok, konsumsi minuman beralkohol, infeksi Human papilomavirus (HPV), kesehatan rongga mulut yang tidak baik, pola makan yang tidak sehat.",
-      "rekomendasi": "Operasi, kemoterapi, radioterapi"
-    },{
-      "id": 9,
-      "nama": "Leukoplakia Tongue",
-      "penyebab": "Kebiasaan merokok atau mengunyah tembakau, bagian gigi yang tidak rata, misalnya karena patah atau bergesekan dengan lidah maupun dinding mulut, gigi palsu yang tidak terpasang dengan baik, konsumsi minuman beralkohol dalam jangka panjang, peradangan di dalam tubuh.",
-      "rekomendasi": "Umumnya leukoplakia sembuh dalam beberapa minggu atau bulan setelah penyebabnya ditangani. Jika belum hilang, sebaiknya segera berkonsultasi dengan dokter untuk mendapatkan solusi yang tepat."
-    }, 
-        {
-      "id": 10,
-      "nama": "Coated Tongue",
-      "penyebab": "Mulut kering, bernapas melalui mulut, dehidrasi, makanan bertekstur lunak, kebersihan gigi yang kurang, iritasi akibat gigi yang tajam atau peralatan pembersih gigi, demam, merokok atau mengunyah tembakau, mengonsumsi alkohol berlebihan.",
-      "rekomendasi": "Rutin menyikat gigi dengan lembut menggunakan sikat gigi yang lembut, menggunakan pembersih lidah khusus, minum banyak air untuk menghilangkan bakteri dan sisa-sisa makanan yang tersangkut pada lidah."
+        "id": 2,
+        "nama": "Perubahan Warna Gigi",
+        "penjelasan": "Perubahan warna gigi merujuk pada kondisi di mana gigi mengalami perubahan warna yang tidak diinginkan akibat berbagai faktor.",
+        "tanda": [
+            "Warna Gigi yang Berubah",
+            "Noda atau Flek pada Gigi",
+            "Kerusakan Estetika"
+        ],
+        "penyebab": "Penyebab perubahan warna gigi dapat meliputi konsumsi makanan dan minuman tertentu, merokok, usia, penyakit, atau trauma.",
+        "pencegahan": "Praktik kebersihan gigi yang baik dan batasi konsumsi makanan/minuman yang berpotensi menyebabkan perubahan warna.",
+        "rekomendasi_penanganan": "Penanganan dapat melibatkan pemutihan gigi, restorasi gigi, atau perawatan medis sesuai dengan penyebabnya."
     },
     {
-      "id": 11,
-      "nama": "Healty Tongue",
-      "penyebab": "Tidak ada",
-      "rekomendasi": "Terus jaga kesehatan lidah anda dengan makan makanan yang begizi dan hindari hal yang memicu kesehatan, semangat!"
+        "id": 3,
+        "nama": "Gingivitis",
+        "penjelasan": "Gingivitis adalah peradangan gusi akibat penumpukan plak bakteri di sekitar gigi. Jika tidak diobati, bisa berkembang menjadi penyakit gusi yang lebih serius.",
+        "tanda": [
+            "Gusi Merah dan Bengkak",
+            "Pendarahan Gusi",
+            "Nyeri atau Sensitivitas Gusi",
+            "Bau Mulut yang Tidak Sedap"
+        ],
+        "penyebab": "Penyebab utama gingivitis adalah penumpukan plak bakteri. Faktor lain termasuk merokok dan kondisi kesehatan tertentu.",
+        "pencegahan": "Praktik kebersihan gigi yang baik dan pemeriksaan rutin oleh dokter gigi.",
+        "rekomendasi_penanganan": "Pembersihan profesional dan perubahan kebiasaan perawatan gigi jika diperlukan."
+    },
+    {
+        "id": 4,
+        "nama": "Hypodontia",
+        "penjelasan": "Hypodontia adalah kondisi di mana seseorang memiliki jumlah gigi yang lebih sedikit dari yang diharapkan. Ini bisa menjadi kondisi genetik.",
+        "tanda": [
+            "Kurangnya Gigi",
+            "Perubahan dalam Gigitan"
+        ],
+        "penyebab": "Penyebab utama hypodontia adalah faktor genetik yang dapat diwariskan.",
+        "pencegahan": "Hypodontia adalah kondisi yang tidak dapat dicegah secara langsung.",
+        "rekomendasi_penanganan": "Konsultasi dengan dokter gigi atau ortodontis untuk perawatan yang sesuai, seperti penggunaan gigi palsu atau perawatan ortodontik."
+    },
+    {
+        "id": 5,
+        "nama": "Kondisi Gigi Normal",
+        "penyebab": "Tidak ada",
+        "tanda": "Tidak ada",
+        "pencegahan": "Tidak ada (pertahankan selalu kebersihan gigi Anda)",
+        "rekomendasi_penanganan": "Tidak ada"
+    },
+    {
+        "id": 6,
+        "nama": "Lidah Fissure (Glositis Migratoria Benigna)",
+        "penjelasan": "Lidah fissure, juga dikenal sebagai glositis migratoria benigna atau lidah geografis, adalah kondisi di mana permukaan lidah memiliki retakan atau lipatan dalam bentuk garis-garis atau celah yang dalam. Ini adalah kondisi umum dan umumnya tidak berbahaya, meskipun dapat menyebabkan ketidaknyamanan atau sensitivitas pada lidah.",
+        "tanda": [
+            "Garis-garis atau Celah pada Lidah",
+            "Sensitivitas Lidah"
+        ],
+        "penyebab": [
+            "Faktor Genetik",
+            "Kebiasaan Merokok",
+            "Iritasi atau Trauma"
+        ],
+        "pencegahan": "Lidah fissure seringkali merupakan kondisi yang tidak dapat dicegah. Namun, menjaga kebersihan mulut dan gigi serta menghindari faktor risiko seperti merokok dapat membantu mengurangi kemungkinan gejala.",
+        "rekomendasi_penanganan": [
+            "Perawatan Simptomatik",
+            "Konsultasi dengan Dokter Gigi"
+        ]
+    },
+    {
+        "id": 7,
+        "nama": "Lidah Geografis (Glossitis Areata Exfoliativa)",
+        "penjelasan": "Lidah geografis adalah kondisi di mana permukaan lidah memiliki pola yang sering kali terlihat seperti peta dengan 'daratan' yang lebih pucat dan 'lautan' yang lebih merah atau mungkin terlihat bengkak. Ini adalah kondisi yang umum dan umumnya tidak berbahaya.",
+        "tanda": [
+            "Pola Peta pada Lidah",
+            "Ketidaknyamanan atau Sensitivitas"
+        ],
+        "penyebab": [
+            "Faktor Genetik",
+            "Iritasi atau Alergi"
+        ],
+        "pencegahan": "Tidak ada cara khusus untuk mencegah lidah geografis.",
+        "rekomendasi_penanganan": [
+            "Perawatan Simptomatik",
+            "Konsultasi dengan Dokter Gigi"
+        ]
+    },
+    {
+        "id": 8,
+        "nama": "Kanker Lidah (Karsinoma Sel Skuamosa Lidah)",
+        "penjelasan": "Kanker lidah adalah jenis kanker yang terjadi pada lidah, yaitu organ di dalam mulut yang digunakan untuk berbicara dan menelan makanan. Kanker lidah sering dikaitkan dengan faktor risiko tertentu seperti merokok, konsumsi alkohol berlebihan, serta infeksi human papillomavirus (HPV).",
+        "tanda": [
+            "Luka atau Tumor pada Lidah",
+            "Nyeri atau Sensasi Terbakar",
+            "Kesulitan Menelan",
+            "Perubahan Suara",
+            "Pembengkakan Kelenjar Getah Bening"
+        ],
+        "penyebab": [
+            "Merokok dan Alkohol",
+            "Infeksi HPV",
+            "Paparan Zat Berbahaya"
+        ],
+        "pencegahan": [
+            "Hindari Merokok dan Alkohol Berlebihan",
+            "Perlindungan dari HPV",
+            "Makanan Sehat"
+        ],
+        "rekomendasi_penanganan": [
+            "Diagnosis Awal",
+            "Pengobatan"
+        ]
+    },
+    {
+        "id": 9,
+        "nama": "Leukoplakia",
+        "penjelasan": "Leukoplakia adalah kondisi di mana terbentuk lapisan putih pada mukosa mulut, termasuk lidah, gusi, pipi, dan langit-langit mulut. Leukoplakia bukanlah kanker, tetapi bisa menjadi prekursor kanker mulut jika tidak diobati atau jika faktor risiko terus menerus ada.",
+        "tanda": [
+            "Lapisan Putih yang Tidak Bisa Dihilangkan",
+            "Sensasi Terbakar atau Nyeri",
+            "Pembengkakan"
+        ],
+        "penyebab": [
+            "Merokok dan Tembakau",
+            "Iritasi Kronis"
+        ],
+        "pencegahan": [
+            "Hindari Merokok dan Tembakau",
+            "Perawatan yang Tepat"
+        ],
+        "rekomendasi_penanganan": [
+            "Konsultasi dengan Dokter Gigi",
+            "Perawatan"
+        ]
+    },
+    {
+        "id": 10,
+        "nama": "Lidah Putih (White Tongue)",
+        "penjelasan": "Lidah putih adalah kondisi di mana permukaan lidah memiliki lapisan putih yang dapat melibatkan seluruh lidah atau hanya sebagian tertentu. Ini biasanya terjadi akibat penumpukan sel-sel mati, bakteri, atau jamur pada permukaan lidah.",
+        "tanda": [
+            "Lapisan Putih pada Lidah",
+            "Sensasi Gatal atau Tidak Nyaman",
+            "Bau Mulut yang Tidak Sedap"
+        ],
+        "penyebab": [
+            "Penumpukan Sel-sel Kulit Mati",
+            "Infeksi Jamur (Oral Thrush)",
+            "Iritasi Mulut",
+            "Sindrom Sjögren"
+        ],
+        "pencegahan": [
+            "Kebersihan Mulut yang Baik",
+            "Hindari Faktor Risiko"
+        ],
+        "rekomendasi_penanganan": [
+            "Perawatan Simptomatik",
+            "Pengobatan Infeksi Jamur",
+            "Konsultasi dengan Dokter"
+        ]
+    },
+    {
+        "id": 11,
+        "nama": "Lidah Sehat",
+        "penyebab": "Tidak ada",
+        "tanda": "Tidak ada",
+        "pencegahan": "Tidak ada (jaga kebersihan lidah Anda)",
+        "rekomendasi_penanganan": "Tidak ada"
     }
-
 ]
