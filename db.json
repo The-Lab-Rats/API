@@ -6,7 +6,7 @@
         "tanda": "Perubahan warna pada gigi, Noda pada gigi, Rasa gigi tumpul atau berkerikil,Munculnya karang pada gigi",
         "penyebab": "Kalkulus gigi berawal dari sisa-sisa makanan yang menumpuk di gigi dan berkembang menjadi plak. Plak yang tidak dibersihkan dalam waktu yang lama kemudian berubah menjadi kalkulus gigi.",
         "pencegahan": "Gunakan pasta gigi yang mengandung fluoride, gunakan benang gigi, dan berkumur dengan mouthwash yang mengandung antiseptik.",
-        "rekomendasi_penanganan": "Kalkulus gigi tidak dapat dibersihkan dengan cara disikat. Scaling gigi adalah satu-satunya cara untuk menghilangkannya."
+        "rekomendasi": "Kalkulus gigi tidak dapat dibersihkan dengan cara disikat. Scaling gigi adalah satu-satunya cara untuk menghilangkannya."
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "tanda": "Nyeri Gigi, Sensitivitas Gigi, Perubahan Warna Gigi, Noda atau Titik Hitam, Pembengkakan Gusi",
         "penyebab": "Penyebab utama gigi karies adalah plak gigi, konsumsi gula dan karbohidrat, serta kurangnya perawatan gigi.",
         "pencegahan": "Sikat gigi secara teratur, kurangi konsumsi gula, dan jalani perawatan rutin oleh dokter gigi.",
-        "rekomendasi_penanganan": "Penanganan dapat melibatkan restorasi gigi, mahkota gigi, perawatan akar gigi, atau perubahan gaya hidup."
+        "rekomendasi": "Penanganan dapat melibatkan restorasi gigi, mahkota gigi, perawatan akar gigi, atau perubahan gaya hidup."
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
         "tanda":"Warna Gigi yang Berubah, Noda atau Flek pada Gigi, Kerusakan Estetika",
         "penyebab": "Penyebab perubahan warna gigi dapat meliputi konsumsi makanan dan minuman tertentu, merokok, usia, penyakit, atau trauma.",
         "pencegahan": "Praktik kebersihan gigi yang baik dan batasi konsumsi makanan/minuman yang berpotensi menyebabkan perubahan warna.",
-        "rekomendasi_penanganan": "Penanganan dapat melibatkan pemutihan gigi, restorasi gigi, atau perawatan medis sesuai dengan penyebabnya."
+        "rekomendasi": "Penanganan dapat melibatkan pemutihan gigi, restorasi gigi, atau perawatan medis sesuai dengan penyebabnya."
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "tanda": "Gusi Merah dan Bengkak, Pendarahan Gusi, Nyeri atau Sensitivitas Gusi, Bau Mulut yang Tidak Sedap",
         "penyebab": "Penyebab utama gingivitis adalah penumpukan plak bakteri. Faktor lain termasuk merokok dan kondisi kesehatan tertentu.",
         "pencegahan": "Praktik kebersihan gigi yang baik dan pemeriksaan rutin oleh dokter gigi.",
-        "rekomendasi_penanganan": "Pembersihan profesional dan perubahan kebiasaan perawatan gigi jika diperlukan."
+        "rekomendasi": "Pembersihan profesional dan perubahan kebiasaan perawatan gigi jika diperlukan."
     },
     {
         "id": 4,
@@ -42,7 +42,7 @@
         "tanda":"Kurangnya Gigi,Perubahan dalam Gigitan",
         "penyebab": "Penyebab utama hypodontia adalah faktor genetik yang dapat diwariskan.",
         "pencegahan": "Hypodontia adalah kondisi yang tidak dapat dicegah secara langsung.",
-        "rekomendasi_penanganan": "Konsultasi dengan dokter gigi atau ortodontis untuk perawatan yang sesuai, seperti penggunaan gigi palsu atau perawatan ortodontik."
+        "rekomendasi": "Konsultasi dengan dokter gigi atau ortodontis untuk perawatan yang sesuai, seperti penggunaan gigi palsu atau perawatan ortodontik."
     },
     {
         "id": 5,
@@ -50,7 +50,7 @@
         "penyebab": "Tidak ada",
         "tanda": "Tidak ada",
         "pencegahan": "Tidak ada (pertahankan selalu kebersihan gigi Anda)",
-        "rekomendasi_penanganan": "Tidak ada"
+        "rekomendasi": "Tidak ada"
     },
     {
         "id": 6,
@@ -59,7 +59,7 @@
         "tanda": "Garis-garis atau Celah pada Lidah,Sensitivitas Lidah",
         "penyebab": "Faktor Genetik, Kebiasaan Merokok, Iritasi atau Trauma",
         "pencegahan": "Lidah fissure seringkali merupakan kondisi yang tidak dapat dicegah. Namun, menjaga kebersihan mulut dan gigi serta menghindari faktor risiko seperti merokok dapat membantu mengurangi kemungkinan gejala.",
-        "rekomendasi_penanganan": "Perawatan Simptomatik, Konsultasi dengan Dokter Gigi"
+        "rekomendasi": "Perawatan Simptomatik, Konsultasi dengan Dokter Gigi"
     },
     {
         "id": 7,
@@ -68,7 +68,7 @@
         "tanda": "Pola Peta pada Lidah,Ketidaknyamanan atau Sensitivitas",
         "penyebab": "Faktor Genetik,Iritasi atau Alergi",
         "pencegahan": "Tidak ada cara khusus untuk mencegah lidah geografis.",
-        "rekomendasi_penanganan": "Perawatan Simptomatik, Konsultasi dengan Dokter Gigi"
+        "rekomendasi": "Perawatan Simptomatik, Konsultasi dengan Dokter Gigi"
         
     },
     {
@@ -78,7 +78,7 @@
         "tanda": "Luka atau Tumor pada Lidah, Nyeri atau Sensasi Terbakar, Kesulitan Menelan, Perubahan Suara, Pembengkakan Kelenjar Getah Bening",
         "penyebab": "Merokok dan Alkohol,Infeksi HPV,Paparan Zat Berbahaya",
         "pencegahan": "Hindari Merokok dan Alkohol Berlebihan, Perlindungan dari HPV , Makanan Sehat",
-        "rekomendasi_penanganan": "Diagnosis Awal, Pengobatan"
+        "rekomendasi": "Diagnosis Awal, Pengobatan"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "tanda": "Lapisan Putih yang Tidak Bisa Dihilangkan,Sensasi Terbakar atau Nyeri,Pembengkakan",
         "penyebab": "Merokok dan Tembakau, Iritasi Kronis",
         "pencegahan": "Hindari Merokok dan Tembakau, Perawatan yang Tepat",
-        "rekomendasi_penanganan": "Konsultasi dengan Dokter Gigi,Perawatan"
+        "rekomendasi": "Konsultasi dengan Dokter Gigi,Perawatan"
     },
     {
         "id": 10,
@@ -96,7 +96,7 @@
         "tanda": "Lapisan Putih pada Lidah, Sensasi Gatal atau Tidak Nyaman, Bau Mulut yang Tidak Sedap",
         "penyebab": "Penumpukan Sel-sel Kulit Mati, Infeksi Jamur (Oral Thrush), Iritasi Mulut , Sindrom Sjögren",
         "pencegahan": "Kebersihan Mulut yang Baik, Hindari Faktor Risiko",
-        "rekomendasi_penanganan": "Perawatan Simptomatik,Pengobatan Infeksi Jamur,Konsultasi dengan Dokter"
+        "rekomendasi": "Perawatan Simptomatik,Pengobatan Infeksi Jamur,Konsultasi dengan Dokter"
     },
     {
         "id": 11,
@@ -104,6 +104,6 @@
         "penyebab": "Tidak ada",
         "tanda": "Tidak ada",
         "pencegahan": "Tidak ada (jaga kebersihan lidah Anda)",
-        "rekomendasi_penanganan": "Tidak ada"
+        "rekomendasi": "Tidak ada"
     }
 ]
