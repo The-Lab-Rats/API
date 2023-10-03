@@ -47,6 +47,7 @@
     {
         "id": 5,
         "nama": "Kondisi Gigi Normal",
+        "penjelasan": "Kondisi Gigi Anda Normal",
         "penyebab": "Tidak ada",
         "tanda": "Tidak ada",
         "pencegahan": "Tidak ada (pertahankan selalu kebersihan gigi Anda)",
@@ -101,6 +102,7 @@
     {
         "id": 11,
         "nama": "Lidah Sehat",
+        "penjelasan": "Kondisi Lidah Anda Normal",
         "penyebab": "Tidak ada",
         "tanda": "Tidak ada",
         "pencegahan": "Tidak ada (jaga kebersihan lidah Anda)",
